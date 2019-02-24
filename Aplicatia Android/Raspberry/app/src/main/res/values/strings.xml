@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Raspberry</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_history">History</string>
+    <string name="action_home">Home</string>
+    <string name="set_history_days">Set days for graph history</string>
+    <string name="action_logout">Logout</string>
+    <string name="set_desired_temperature">Set desired temperature</string>
+    <string name="expanded">I\'m the expanded notification.\nCollapse me!</string>
+    <string name="collapsed">Swipe down for details!\n Received at: %s</string>
+    <string name="show_notification">Show Notification</string>
+    <string name="custom_notification">I\'m a custom notification.</string>
+    <string name="intro_text">This sample demonstrates how a notification is created using the <b>NotificationCompatBuilder</b>         with a custom content view. The layout of the notification is defined as a
+        layout resource and inflated as a <b>RemoteViews</b> object.
+        \n\nOn API level 16 and above, a different layout is inflated and set as
+        the <i>big content view</i>, which is used when the notification is expanded.
+        \n\n<b>Use the button below to create the notification.
+        \n\nIf your device is running Jelly Bean or above, try expanding or collapsing
+        the notification to see the different layouts.</b></string>
+    <string name="collapsed_image">A single Android robot waving. Symbolises a collapsed
+        notification.</string>
+    <string name="expanded_image">Two Androids on top of each other. Symbolises an expanded
+        notification.</string>
+    <string name="title_activity_temperature">Temperature</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_device_id">Device Id</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registered! Log me in!</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Full name</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_history">History</string>
+
+    <string name="gcm_defaultSenderId">16568902804</string>
+
+</resources>
